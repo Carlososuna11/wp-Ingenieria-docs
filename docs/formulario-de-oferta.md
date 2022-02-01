@@ -53,6 +53,7 @@ En esta pestaña estan los shortcodes de divi para cada campo del formulario. Ca
 - **Descripción de la Oferta**: Este campo es obligatorio.
 - **Url de la Imagen Destacada de la Oferta**: Este campo es obligatorio.
 - **Modalidad del Contrato**: Este campo es obligatorio.
+- **Tipo de Contrato**: Este campo es obligatorio.
 - **Requisitos del Cargo**: Este campo es obligatorio.
 
 ### Pestaña de Correo
@@ -60,7 +61,7 @@ En esta pestaña estan los shortcodes de divi para cada campo del formulario. Ca
 En esta vista se configuró los shortcodes anteriores en el cuerpo del mensaje. A continuación se muestra un ejemplo del mismo
 
 ```
-De: [nombre] <[correo_electronico]>
+De: [nombre] 
 Asunto: [post-title]
 
 Nombre de la oferta:
@@ -89,6 +90,9 @@ Imagen destacada:
 
 Modalidad del contrato:
 [modalidad_de_contrato]
+
+Tipo de Oferta:
+[tipo]
 
 Requisitos del cargo:
 [requisitos]

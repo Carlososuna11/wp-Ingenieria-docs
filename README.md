@@ -6,7 +6,7 @@
 ## Tabla de contenidos:
 ---
 
-- [Formulario de oferta](docs/formulario-de-oferta.md)
+- [Formulario de ofertas](docs/formulario-de-oferta.md)
 
 ## Descripción y contexto
 ---

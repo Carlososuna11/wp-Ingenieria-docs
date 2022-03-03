@@ -7,6 +7,11 @@
 ---
 
 - [Formulario de ofertas](docs/formulario-de-oferta.md)
+- [Centrar Detalles Pod](docs/pod-centrar-detalles-pod.md)
+- [Noticias](docs/pod-noticias.md)
+- [Representantes Estudiantiles](docs/pod-rep-estudiantiles.md)
+- [Staff](docs/pod-staff.md)
+- [Testimonios](docs/pod-testimonios.md)
 
 ## Descripción y contexto
 ---
